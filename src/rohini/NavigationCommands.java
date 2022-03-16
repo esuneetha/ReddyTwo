@@ -14,7 +14,7 @@ public class NavigationCommands {
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://www.google.com");
-		driver.findElement(By.name("q")).sendKeys("Jagadeesh World");
+		driver.findElement(By.name("q")).sendKeys("Reddy World");
 	//	Thread.sleep(10000);
 		//driver.close();
 		driver.quit();
