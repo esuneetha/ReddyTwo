@@ -12,7 +12,7 @@ public class Sikuli {
 	static WebDriver driver;
 
 	public static void main(String[] args) throws SikuliException, InterruptedException {
-		Thread.sleep(5000);
+		Thread.sleep(7000);
 		/*
 		 * s.find("E:\\Selenium\\Sikuli\\Recyclebin.png");
 		 * System.out.println("Recyclebin source image found");
